@@ -2,7 +2,13 @@
 
 **Make Best Music** is a modern, premium Android application built with Kotlin and Jetpack Compose. It serves as an AI-powered music creation hub, allowing users to generate original tracks, create AI covers with custom voices, and share their creations within a vibrant community.
 
+## 📱 App Demo
+<p align="center">
+  <img src="assets/demo.gif" width="300"/>
+</p>
+
 ## 📱 Features & Core Screens
+
 
 ### 1. ✨ Splash & Onboarding
 - **Visual Splash Screen:** Engaging entry point with brand identity.
